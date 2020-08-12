@@ -1,5 +1,5 @@
 ![Travis Status](https://img.shields.io/travis/:mxrr/:mxrr)  
-![lisa](christmas.gif)
+![lisa](https://github.com/mxrr/mxrr/blob/master/christmas.gif)
 
 <!--
 **mxrr/mxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
