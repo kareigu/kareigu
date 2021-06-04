@@ -1,6 +1,6 @@
 ![lisa](https://github.com/mxrr/mxrr/blob/master/christmas.gif)
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrr&layout=compact&hide=html,css&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrr&layout=compact&hide=html,css&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mxrr/mxrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
