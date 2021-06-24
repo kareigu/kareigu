@@ -14,11 +14,26 @@
   <td>
     
 [![Vanamehe](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=vanamehe-bot)](https://github.com/mxrr/vanamehe-bot)
+   
+  <div align="center">
+   
+![Build](https://github.com/mxrr/vanamehe-bot/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/mxrr/vanamehe-bot/actions/workflows/deploy.yml/badge.svg)
+   
+   </div>
   
   </td>
   <td>
   
 [![Niilo22](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=niilo22)](https://github.com/mxrr/niilo22)
+   
+   
+   <div align="center">
+   
+![Build](https://github.com/mxrr/niilo22/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/mxrr/niilo22/actions/workflows/deploy.yml/badge.svg)
+   
+   </div>
   </td>
     
   </tr>
@@ -28,11 +43,27 @@
   <td>
     
 [![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=priidik-bot)](https://github.com/mxrr/priidik-bot)
+   
+   
+   <div align="center">
+   
+![Build](https://github.com/mxrr/priidik-bot/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/mxrr/priidik-bot/actions/workflows/deploy.yml/badge.svg)
+   
+   </div>
   
   </td>
   <td>
   
 [![mxrr-dev](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=mxrr-dev)](https://github.com/mxrr/mxrr-dev)
+   
+   
+   <div align="center">
+   
+![Build](https://github.com/mxrr/mxrr-dev/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/mxrr/mxrr-dev/actions/workflows/deploy.yml/badge.svg)
+   
+   </div>
   </td>
     
   </tr>
