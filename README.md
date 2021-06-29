@@ -55,13 +55,13 @@
   </td>
   <td>
   
-[![mxrr-dev](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=mxrr-dev)](https://github.com/mxrr/mxrr-dev)
+[![basic_log](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=basic_log)](https://github.com/mxrr/basic_log)
    
    
    <div align="center">
    
-![Build](https://github.com/mxrr/mxrr-dev/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/mxrr/mxrr-dev/actions/workflows/deploy.yml/badge.svg)
+![Build](https://github.com/mxrr/basic_log/actions/workflows/ci.yml/badge.svg)
+![crates.io](https://img.shields.io/crates/v/basic_log?style=flat-square)
    
    </div>
   </td>
