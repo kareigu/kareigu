@@ -3,9 +3,9 @@
  
 <div>  
   
-![lisa](https://github.com/mxrr/mxrr/blob/master/christmas.gif)
+![lisa](https://github.com/kareigu/kareigu/blob/master/christmas.gif)
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mxrr&layout=compact&hide=html,css&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kareigu&layout=compact&hide=html,css&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 <table>
@@ -13,25 +13,25 @@
   
   <td>
     
-[![Vanamehe](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=vanamehe-bot)](https://github.com/mxrr/vanamehe-bot)
+[![Vanamehe](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=vanamehe-bot)](https://github.com/mxrr/vanamehe-bot)
    
   <div align="center">
    
-![Build](https://github.com/mxrr/vanamehe-bot/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/mxrr/vanamehe-bot/actions/workflows/deploy.yml/badge.svg)
+![Build](https://github.com/kareigu/vanamehe-bot/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/kareigu/vanamehe-bot/actions/workflows/deploy.yml/badge.svg)
    
    </div>
   
   </td>
   <td>
   
-[![Niilo22](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=niilo22)](https://github.com/mxrr/niilo22)
+[![Niilo22](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=niilo22)](https://github.com/mxrr/niilo22)
    
    
    <div align="center">
    
-![Build](https://github.com/mxrr/niilo22/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/mxrr/niilo22/actions/workflows/deploy.yml/badge.svg)
+![Build](https://github.com/kareigu/niilo22/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/kareigu/niilo22/actions/workflows/deploy.yml/badge.svg)
    
    </div>
   </td>
@@ -42,25 +42,25 @@
     
   <td>
     
-[![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=priidik-bot)](https://github.com/mxrr/priidik-bot)
+[![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=priidik-bot)](https://github.com/mxrr/priidik-bot)
    
    
    <div align="center">
    
-![Build](https://github.com/mxrr/priidik-bot/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/mxrr/priidik-bot/actions/workflows/deploy.yml/badge.svg)
+![Build](https://github.com/kareigu/priidik-bot/actions/workflows/build.yml/badge.svg)
+![Deploy](https://github.com/kareigu/priidik-bot/actions/workflows/deploy.yml/badge.svg)
    
    </div>
   
   </td>
   <td>
   
-[![basic_log](https://github-readme-stats.vercel.app/api/pin/?username=mxrr&theme=tokyonight&repo=basic_log)](https://github.com/mxrr/basic_log)
+[![basic_log](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=basic_log)](https://github.com/mxrr/basic_log)
    
    
    <div align="center">
    
-![Build](https://github.com/mxrr/basic_log/actions/workflows/ci.yml/badge.svg)
+![Build](https://github.com/kareigu/basic_log/actions/workflows/ci.yml/badge.svg)
 ![crates.io](https://img.shields.io/crates/v/basic_log?style=flat-square)
    
    </div>
