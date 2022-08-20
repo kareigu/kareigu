@@ -3,7 +3,8 @@
  
 <div>  
   
-![lisa](https://github.com/kareigu/kareigu/blob/master/christmas.gif)
+![banner](https://karei.dev/files/header.webp)
+
 
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kareigu&layout=compact&hide=html,css&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
