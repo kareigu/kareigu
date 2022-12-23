@@ -29,13 +29,13 @@
   <tr>
      <td>
       
-[![Real-ESRGAN-ncnn-vulkan-UI](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=Real-ESRGAN-ncnn-vulkan-UI)]([https://github.com/mxrr/vanamehe-bot](https://github.com/kareigu/Real-ESRGAN-ncnn-vulkan-UI))
+[![Real-ESRGAN-ncnn-vulkan-UI](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=Real-ESRGAN-ncnn-vulkan-UI)](https://github.com/kareigu/Real-ESRGAN-ncnn-vulkan-UI)
    
   
   </td>
   <td>
   
-[![switch-qt-rpc](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=switch-qt-rpc)]([https://github.com/kareigu/basic_log](https://github.com/kareigu/switch-qt-rpc))
+[![switch-qt-rpc](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=switch-qt-rpc)](https://github.com/kareigu/switch-qt-rpc)
    
    
   </td>
