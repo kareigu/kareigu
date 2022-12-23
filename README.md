@@ -11,60 +11,33 @@
   </div>
 <table>
 <tr>
-  
-  <td>
-    
-[![Vanamehe](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=vanamehe-bot)](https://github.com/mxrr/vanamehe-bot)
-   
-  <div align="center">
-   
-![Build](https://github.com/kareigu/vanamehe-bot/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/kareigu/vanamehe-bot/actions/workflows/deploy.yml/badge.svg)
-   
-   </div>
-  
-  </td>
   <td>
   
-[![Niilo22](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=niilo22)](https://github.com/mxrr/niilo22)
+[![Niilo22](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=niilo22)](https://github.com/kareigu/niilo22)
    
-   
-   <div align="center">
-   
-![Build](https://github.com/kareigu/niilo22/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/kareigu/niilo22/actions/workflows/deploy.yml/badge.svg)
-   
-   </div>
   </td>
+
     
+  <td>
+    
+[![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=priidik-bot)](https://github.com/kareigu/priidik-bot)
+   
+  
+  </td>
+     
   </tr>
   <tr>
-    
-    
-  <td>
-    
-[![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=priidik-bot)](https://github.com/mxrr/priidik-bot)
+     <td>
+      
+[![Real-ESRGAN-ncnn-vulkan-UI](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=Real-ESRGAN-ncnn-vulkan-UI)]([https://github.com/mxrr/vanamehe-bot](https://github.com/kareigu/Real-ESRGAN-ncnn-vulkan-UI))
    
-   
-   <div align="center">
-   
-![Build](https://github.com/kareigu/priidik-bot/actions/workflows/build.yml/badge.svg)
-![Deploy](https://github.com/kareigu/priidik-bot/actions/workflows/deploy.yml/badge.svg)
-   
-   </div>
   
   </td>
   <td>
   
-[![basic_log](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=basic_log)](https://github.com/mxrr/basic_log)
+[![switch-qt-rpc](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=switch-qt-rpc)]([https://github.com/kareigu/basic_log](https://github.com/kareigu/switch-qt-rpc))
    
    
-   <div align="center">
-   
-![Build](https://github.com/kareigu/basic_log/actions/workflows/ci.yml/badge.svg)
-![crates.io](https://img.shields.io/crates/v/basic_log?style=flat-square)
-   
-   </div>
   </td>
     
   </tr>
