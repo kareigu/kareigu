@@ -20,7 +20,7 @@
     
   <td>
     
-[![Priidik](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=priidik-bot)](https://github.com/kareigu/priidik-bot)
+[![Arknights Launcher](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=Arknights_Launcher)](https://github.com/kareigu/Arknights_Launcher)
    
   
   </td>
