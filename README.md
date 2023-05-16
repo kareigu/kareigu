@@ -6,7 +6,7 @@
 ![banner](https://karei.dev/files/header.webp)
 
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kareigu&layout=compact&hide=html,css,shell&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kareigu&layout=compact&hide=html,css,shell,vim&show_icons=true&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 <table>
