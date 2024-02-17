@@ -13,7 +13,7 @@
 <tr>
   <td>
   
-[![haru](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=haru)](https://github.com/kareigu/haru)
+[![haru](https://github-readme-stats.vercel.app/api/pin/?username=kareigu&theme=tokyonight&repo=rust-ant)](https://github.com/kareigu/rust-ant)
    
   </td>
 
